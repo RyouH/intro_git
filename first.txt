@@ -4,3 +4,4 @@ git add
 git commit
 git rm
 I learned git remove!
+git status
