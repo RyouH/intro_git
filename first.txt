@@ -5,3 +5,4 @@ git commit
 git rm
 I learned git remove!
 git status
+git diff
